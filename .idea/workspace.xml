@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="787c237e-1af8-401e-a121-f68928d2d8ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bankapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bankapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bankapp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bankapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bankapp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bankapp/Bankapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank/bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banking/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banking/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banking/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banking/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banking/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banking/banking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/bankingapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/src/com/revature/banking/MainDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/src/com/revature/banking/daos/UsersDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/src/com/revature/banking/menus/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/src/com/revature/banking/menus/RegisterMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/src/com/revature/banking/menus/WelcomeMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/src/com/revature/banking/models/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/src/com/revature/banking/util/AppState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankingapp/src/com/revature/banking/util/ConnectionFactory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28yPnkKMcHQYs6GFopglFfQHKDK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="787c237e-1af8-401e-a121-f68928d2d8ca" name="Changes" comment="" />
+      <created>1652186023597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652186023597</updated>
+    </task>
+    <servers />
+  </component>
+</project>
